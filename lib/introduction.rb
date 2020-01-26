@@ -16,7 +16,7 @@ def introduction_with_language_optional(name, language = "Ruby")
    learning to program in #{language}."
 end
 
-puts introduction_with_language_optional("Kyle")
+introduction_with_language_optional("Kyle")
 
 
 
